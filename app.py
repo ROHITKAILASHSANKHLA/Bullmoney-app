@@ -64,4 +64,4 @@ for co in data:
             <p><b>💰 मूल्य:</b> ₹{co['price']} | <b>📉 Graham Value:</b> ₹{iv:.2f}</p>
             <p><b>🛡️ निर्णय:</b> {decision}</p>
         </div>""", unsafe_allow_html=True)
-        
+
